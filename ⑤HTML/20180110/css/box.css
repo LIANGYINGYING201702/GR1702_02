@@ -1,0 +1,40 @@
+		<!--全局样式设置-->
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+body{
+	font-size: 14px;
+	height: auto;
+	width: 900px;
+	margin: 0 auto 0 auto;
+}
+
+.mainBox{
+	height: 400px;
+	width: 200px;
+	margin: 3px;
+	padding: 0px;
+	border: 1px dashed #3CDFC6;
+	float: left;
+	font-size: 14px;
+}
+
+.mainBox  h3{
+	background-color: #58D3A5;
+	color: white;
+	padding: 6px 3px 6px 10px;
+	float: left;
+	height: 20px;
+	width: 185px;
+	margin: 0;
+}
+
+.mainBox  p{
+	line-height: 1.5em;
+	text-indent: 2em;
+	margin: 5px;
+}
